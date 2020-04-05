@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 	"sync"
-	"./logger"
+	"tempratureMqtt/logger" // change this path to your local GOPATH format. ex: myProjectDir/logger
 	"time"
 )
 
